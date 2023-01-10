@@ -2,7 +2,6 @@ import json
 import requests
 import os
 
-#db_password= os.environ.get('mytoken')
 mytoken = '<enter your access token here'
 apiurl = 'https://chat.opennms.com/api/v4/'
 page = 0
