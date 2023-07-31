@@ -2,7 +2,7 @@ import json
 import requests
 import os
 
-mytoken = '<enter your access token here'
+mytoken = '<enter your access token here>'
 apiurl = 'https://chat.example.com/api/v4/'
 page = 0
 per_page = 100
