@@ -3,7 +3,7 @@ import requests
 import os
 
 mytoken = '<enter your access token here'
-apiurl = 'https://chat.opennms.com/api/v4/'
+apiurl = 'https://chat.example.com/api/v4/'
 page = 0
 per_page = 100
 fetch = 1
